@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![AuthentiFi](https://imgur.com/1xXwOoZ.png)
+  ![AuthentiFi]
 
   [![Hackathon](https://img.shields.io/badge/hackathon-SPIT-orange.svg)](http://csi.spit.ac.in/hackathon/) 
   [![Status](https://img.shields.io/badge/status-inactive-red.svg)]() 
